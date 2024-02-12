@@ -1,0 +1,10 @@
+.lista {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-shadow: 2px 2px 2px red;
+    margin-bottom: 20px;
+}
+.listinha {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
